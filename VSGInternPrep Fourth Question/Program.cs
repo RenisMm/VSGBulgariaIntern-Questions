@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace VSGInternPrep_Second_Exercise
 {
-    enum WeaponType
+    class Weapon : Weapons
     {
-        Gun,
-        Knife,
-        Bow
+        public override void WeaponType(WeaponType type, string action, int damage)
+        {
+            Console.WriteLine($"{type} {action} for {damage} damage!");
+        }
     }
     class Program
     {
@@ -18,6 +19,7 @@ namespace VSGInternPrep_Second_Exercise
         {
             Console.WriteLine("Please enter a type of gun, 0 for a gun, 1 for a knife and 2 for a bow: ");
             int type = Int32.Parse(Console.ReadLine());
+            var wep = (WeaponType)type;
 
             if (type > 2 || type < 0)
             {
@@ -26,13 +28,11 @@ namespace VSGInternPrep_Second_Exercise
             }
             else
             {
-                Console.WriteLine("Instantiated a " + TypeOfWeapon(type) + "");
+                Console.WriteLine("Instantiated a " + wep + "");
                 inflickDamage(type);
-                var weapon = (WeaponType)type;
-                var weaponDamage = inflickDamage(type);
-                var action = ActionOfWeapon(type);
 
-                Console.WriteLine($"{weapon} {action} for {weaponDamage} damage!");
+                Weapon weapon = new Weapon();
+                weapon.WeaponType(wep, ActionOfWeapon(type), Int32.Parse(inflickDamage(type)));
             }
         }
 
@@ -50,20 +50,7 @@ namespace VSGInternPrep_Second_Exercise
                     return "Not valid weapon!";
             }
         }
-        static string TypeOfWeapon(int number)
-        {
-            switch (number)
-            {
-                case 0:
-                    return "Gun!";
-                case 1:
-                    return "Knife!";
-                case 2:
-                    return "Bow!";
-                default:
-                    return "Not valid weapon!";
-            }
-        }
+      
         static string ActionOfWeapon(int number)
         {
             switch (number)
