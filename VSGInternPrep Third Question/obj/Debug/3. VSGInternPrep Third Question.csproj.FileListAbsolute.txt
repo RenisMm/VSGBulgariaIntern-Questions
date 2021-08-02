@@ -1,0 +1,7 @@
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\bin\Debug\VSGInternPrep Third Exercise.exe.config
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\bin\Debug\VSGInternPrep Third Exercise.exe
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\bin\Debug\VSGInternPrep Third Exercise.pdb
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\obj\Debug\3. VSGInternPrep Third Question.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\obj\Debug\VSGInternPrep Third Exercise.exe
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\obj\Debug\VSGInternPrep Third Exercise.pdb
+C:\Users\Renis\source\repos\VSGInternPrep Third Exercise\obj\Debug\3. VSGInternPrep Third Question.csprojAssemblyReference.cache

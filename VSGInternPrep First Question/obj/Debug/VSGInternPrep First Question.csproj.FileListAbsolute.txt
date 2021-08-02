@@ -1,0 +1,6 @@
+C:\Users\Renis\source\repos\VSGInternPrep\bin\Debug\VSGInternPrep.exe.config
+C:\Users\Renis\source\repos\VSGInternPrep\bin\Debug\VSGInternPrep.exe
+C:\Users\Renis\source\repos\VSGInternPrep\bin\Debug\VSGInternPrep.pdb
+C:\Users\Renis\source\repos\VSGInternPrep\obj\Debug\VSGInternPrep First Question.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\VSGInternPrep\obj\Debug\VSGInternPrep.exe
+C:\Users\Renis\source\repos\VSGInternPrep\obj\Debug\VSGInternPrep.pdb

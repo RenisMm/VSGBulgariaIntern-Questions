@@ -1,0 +1,6 @@
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\bin\Debug\VSGInternPrep Fourth Question.exe.config
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\bin\Debug\VSGInternPrep Fourth Question.exe
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\bin\Debug\VSGInternPrep Fourth Question.pdb
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\obj\Debug\2. VSGInternPrep Second Question.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\obj\Debug\VSGInternPrep Fourth Question.exe
+C:\Users\Renis\source\repos\VSGInternPrep Fourth Question\obj\Debug\VSGInternPrep Fourth Question.pdb
