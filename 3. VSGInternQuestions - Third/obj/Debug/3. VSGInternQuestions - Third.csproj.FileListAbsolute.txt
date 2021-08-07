@@ -1,0 +1,6 @@
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\bin\Debug\_3.VSGInternQuestions___Third.exe.config
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\bin\Debug\_3.VSGInternQuestions___Third.exe
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\bin\Debug\_3.VSGInternQuestions___Third.pdb
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\obj\Debug\3. VSGInternQuestions - Third.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\obj\Debug\_3.VSGInternQuestions___Third.exe
+C:\Users\Renis\source\repos\3. VSGInternQuestions - Third\obj\Debug\_3.VSGInternQuestions___Third.pdb

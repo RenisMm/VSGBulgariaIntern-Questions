@@ -1,0 +1,6 @@
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\bin\Debug\_2.VSGInternQuestions___Second.exe.config
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\bin\Debug\_2.VSGInternQuestions___Second.exe
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\bin\Debug\_2.VSGInternQuestions___Second.pdb
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\obj\Debug\2. VSGInternQuestions - Second.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\obj\Debug\_2.VSGInternQuestions___Second.exe
+C:\Users\Renis\source\repos\2. VSGInternQuestions - Second\obj\Debug\_2.VSGInternQuestions___Second.pdb

@@ -1,0 +1,6 @@
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\bin\Debug\_4.VSGInternQuestions___Fourth.exe.config
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\bin\Debug\_4.VSGInternQuestions___Fourth.exe
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\bin\Debug\_4.VSGInternQuestions___Fourth.pdb
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\obj\Debug\4. VSGInternQuestions - Fourth.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\obj\Debug\_4.VSGInternQuestions___Fourth.exe
+C:\Users\Renis\source\repos\4. VSGInternQuestions - Fourth\obj\Debug\_4.VSGInternQuestions___Fourth.pdb
