@@ -1,0 +1,7 @@
+C:\Users\Renis\source\repos\VSGInternQuestions\bin\Debug\VSGInternQuestions.exe.config
+C:\Users\Renis\source\repos\VSGInternQuestions\bin\Debug\VSGInternQuestions.exe
+C:\Users\Renis\source\repos\VSGInternQuestions\bin\Debug\VSGInternQuestions.pdb
+C:\Users\Renis\source\repos\VSGInternQuestions\obj\Debug\1. VSGInternQuestions - First.csprojAssemblyReference.cache
+C:\Users\Renis\source\repos\VSGInternQuestions\obj\Debug\1. VSGInternQuestions - First.csproj.CoreCompileInputs.cache
+C:\Users\Renis\source\repos\VSGInternQuestions\obj\Debug\VSGInternQuestions.exe
+C:\Users\Renis\source\repos\VSGInternQuestions\obj\Debug\VSGInternQuestions.pdb
